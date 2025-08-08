@@ -1,0 +1,1 @@
+# Write a program to find out whether a givon post" is talking about 'Vivek' or not use of element in string
